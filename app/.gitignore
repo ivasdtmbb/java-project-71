@@ -40,3 +40,12 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+**/logs/
+
+.settings
+bin
+.project*
+.classpath
+.idea/
+.factorypath
